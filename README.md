@@ -16,7 +16,7 @@ Computer science is the cornerstone of modern technology, playing a pivotal role
 
 # Part I: Foundations of Computer Science
 
-## [[Introduction to Computing]]
+## [Introduction to Computing]
 
 - Brief history of computing
 - Basic concepts: algorithms, data, information
