@@ -1,4 +1,4 @@
-# Computer Science
+# Computer Science Guide
 
 A concise guide to computer science, encompassing the broad spectrum from hardware to software and how they interact. 
 
@@ -8,45 +8,48 @@ This book serves as a concise guide to computer science, aiming to demystify the
 
 Computer science is the cornerstone of modern technology, playing a pivotal role in shaping our digital world. It is the discipline that focuses on the design, development, and application of computers and computational systems. With computer science, we drive innovation across engineering, business, entertainment, education, and the sciences, providing solutions to complex problems that transcend traditional boundaries. The field is integral to our daily lives, influencing how we communicate, work, play, and learn. Today, in an increasingly interconnected and data-driven society, understanding computer science is crucial for navigating the digital age, making informed decisions, and contributing to the advancement of technology. This book provides an overview of computer science, highlighting its broad range of applications and the profound impact it has on our world.
 
+
 > **"The computer is incredibly fast, accurate, and stupid. Man is unbelievably slow, inaccurate, and brilliant. The marriage of the two is a force beyond calculation."**
 > — Leo Cherne
 
+
+
 # Part I: Foundations of Computer Science
 
-## [Chapter 1: Introduction to Computing](#chapter-1-introduction-to-computing)
+## [[Introduction to Computing]]
 
 - Brief history of computing
 - Basic concepts: algorithms, data, information
 
-## [Chapter 2: Hardware Fundamentals](#chapter-2-hardware-fundamentals)
+## [[Hardware Fundamentals]]
 
 - Components of a computer system (CPU, memory, storage, input/output devices)
 - Basics of digital logic
 
-## [Chapter 3: Software Fundamentals](#chapter-3-software-fundamentals)
+## [[Software Fundamentals]]
 
 - Types of software (system software, application software)
 - Programming languages and paradigms
 
 # Part II: Core Concepts in Computer Science
 
-## [Chapter 4: Data Structures](#chapter-4-data-structures)
+## [[Data Structures]]
 
 - Arrays, linked lists, stacks, queues, trees, graphs
 - Importance of choosing appropriate data structures
 
-## [Chapter 5: Algorithms](#chapter-5-algorithms)
+## [[Algorithms]]
 
 - Introduction to algorithms
 - Sorting, searching, and basic algorithm design techniques (greedy, divide and conquer, dynamic programming)
 
-## [Chapter 6: Computer Networks](#chapter-6-computer-networks)
+## [[Computer Networks]]
 
 - Basics of networking
 - OSI model, TCP/IP protocol suite
 - Internet and its protocols (HTTP, DNS, etc.)
 
-## [Chapter 7: Databases](#chapter-7-databases)
+## [[Databases]]
 
 - Relational databases
 - Structured Query Language (SQL)
@@ -54,18 +57,18 @@ Computer science is the cornerstone of modern technology, playing a pivotal role
 
 # Part III: Advanced Topics in Computer Science
 
-## [Chapter 8: Artificial Intelligence and Machine Learning](#chapter-8-artificial-intelligence-and-machine-learning)
+## [[Artificial Intelligence and Machine Learning]]
 
 - Overview of AI and ML
 - Machine learning algorithms, neural networks, deep learning
 
-## [Chapter 9: Cybersecurity](#chapter-9-cybersecurity)
+## [[Cybersecurity]]
 
 - Importance of cybersecurity
 - Common threats and attack vectors
 - Best practices for securing systems and data
 
-## [Chapter 10: Software Engineering](#chapter-10-software-engineering)
+## [[Software Engineering]]
 
 - Software development life cycle
 - Agile methodologies, DevOps practices
