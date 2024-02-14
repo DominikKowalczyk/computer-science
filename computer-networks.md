@@ -1,4 +1,4 @@
-
+# Networking
 ## Basics of Networking
 
 Computer networks are the backbone of modern communication, enabling the exchange of information between devices. Understanding the basics of networking is essential for anyone navigating the digital landscape.
@@ -14,6 +14,25 @@ Computer networks are the backbone of modern communication, enabling the exchang
 4. **IP Addressing:** Every device on a network has a unique IP address, allowing for identification and communication.
 
 5. **Routing:** The process of directing data between nodes on a network.
+
+## OSI Model
+
+The Open Systems Interconnection (OSI) model is a conceptual framework that standardizes the functions of a telecommunication or computing system into seven abstraction layers. Each layer performs specific tasks, and communication between layers is well-defined.
+
+1. **Physical Layer:** Deals with the physical connection between devices, including cables and hardware.
+
+2. **Data Link Layer:** Manages the flow of data between nodes on a network segment, providing error detection and correction.
+
+3. **Network Layer:** Handles routing and forwarding, ensuring data reaches its destination across different networks.
+
+4. **Transport Layer:** Manages end-to-end communication, breaking down larger messages into smaller packets for transmission.
+
+5. **Session Layer:** Establishes, maintains, and terminates communication sessions between applications.
+
+6. **Presentation Layer:** Translates data between the application layer and the lower layers, ensuring compatibility.
+
+7. **Application Layer:** Provides network services directly to end-users or applications.
+
 
 # Infrastructure Overview
 
@@ -58,23 +77,6 @@ Computer networks are the backbone of modern communication, enabling the exchang
 - **Email Servers:** Handle email communication within an organization or across the internet.
 
 
-## OSI Model
-
-The Open Systems Interconnection (OSI) model is a conceptual framework that standardizes the functions of a telecommunication or computing system into seven abstraction layers. Each layer performs specific tasks, and communication between layers is well-defined.
-
-1. **Physical Layer:** Deals with the physical connection between devices, including cables and hardware.
-
-2. **Data Link Layer:** Manages the flow of data between nodes on a network segment, providing error detection and correction.
-
-3. **Network Layer:** Handles routing and forwarding, ensuring data reaches its destination across different networks.
-
-4. **Transport Layer:** Manages end-to-end communication, breaking down larger messages into smaller packets for transmission.
-
-5. **Session Layer:** Establishes, maintains, and terminates communication sessions between applications.
-
-6. **Presentation Layer:** Translates data between the application layer and the lower layers, ensuring compatibility.
-
-7. **Application Layer:** Provides network services directly to end-users or applications.
 
 ## TCP/IP Protocol Suite
 

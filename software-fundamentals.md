@@ -17,7 +17,7 @@ Programming languages are the tools that enable humans to communicate instructio
 
 ### High-Level vs. Low-Level Languages
 
-Programming languages can be categorized as high-level or low-level. High-level languages, like Python, Java, and C++, provide abstraction from hardware details, making them more user-friendly and easier to understand. Low-level languages, such as Assembly language, are closer to the machine code and offer more direct control over hardware.
+Programming languages can be categorized as high-level or low-level. High-level languages, like Python, JavaScript, provide abstraction from hardware details, making them more user-friendly and easier to understand. Low-level languages, such as Assembly language, C or C++, are closer to the machine code and offer more direct control over hardware.
 
 ### Imperative, Declarative, and Functional Paradigms
 
