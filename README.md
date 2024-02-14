@@ -13,7 +13,7 @@ Computer science is the cornerstone of modern technology, playing a pivotal role
 
 # Table of Contents
 
-- [Introduction] (#introduction)
+- [Introduction](#introduction)
 - [Part I: Foundations of Computer Science](#part-i-foundations-of-computer-science)
   - [Introduction to Computing](#introduction-to-computing)
   - [Hardware Fundamentals](#hardware-fundamentals)
