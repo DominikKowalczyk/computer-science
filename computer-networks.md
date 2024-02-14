@@ -51,7 +51,7 @@ The Transmission Control Protocol/Internet Protocol (TCP/IP) is the fundamental 
 
 HTTP is the foundation of data communication on the World Wide Web. It defines how messages are formatted and transmitted, and actions to be taken by web servers and browsers.
 
-### DNS (Domain Name System)
+### [DNS (Domain Name System)](domain-name-system.md)
 
 DNS translates human-readable domain names into IP addresses, facilitating the identification of devices on a network.
 
