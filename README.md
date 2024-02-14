@@ -11,6 +11,25 @@ Computer science is the cornerstone of modern technology, playing a pivotal role
 > **"The computer is incredibly fast, accurate, and stupid. Man is unbelievably slow, inaccurate, and brilliant. The marriage of the two is a force beyond calculation."**
 > — Leo Cherne
 
+# Table of Contents
+
+- [Introduction]
+- [Part I: Foundations of Computer Science](#part-i-foundations-of-computer-science)
+  - [Introduction to Computing](#introduction-to-computing)
+  - [Hardware Fundamentals](#hardware-fundamentals)
+  - [Software Fundamentals](#software-fundamentals)
+- [Part II: Core Concepts in Computer Science](#part-ii-core-concepts-in-computer-science)
+  - [Data Structures](#data-structures)
+  - [Algorithms](#algorithms)
+  - [Computer Networks](#computer-networks)
+  - [Databases](#databases)
+- [Part III: Advanced Topics in Computer Science](#part-iii-advanced-topics-in-computer-science)
+  - [Artificial Intelligence and Machine Learning](#artificial-intelligence-and-machine-learning)
+  - [Cybersecurity](#cybersecurity)
+  - [Software Engineering](#software-engineering)
+- [Conclusion](#conclusion)
+- [Appendices (Optional)](#appendices-optional)
+
 # Part I: Foundations of Computer Science
 
 ## [Introduction to Computing](intro-to-computing.md)
