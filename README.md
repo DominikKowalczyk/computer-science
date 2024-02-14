@@ -34,7 +34,7 @@ Computer science is the cornerstone of modern technology, playing a pivotal role
 - [Appendices (Optional)](#appendices-optional)
 
 
-# Part I: Foundations of Computer Science]
+# Part I: Foundations of Computer Science
 
 ## [Introduction to Computing](intro-to-computing.md)
 
